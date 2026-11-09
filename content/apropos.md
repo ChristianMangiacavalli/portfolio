@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant en bachelor en **Faculté des géosciences et de l'environnement (FGSE)** à l'**UNIL**, avec un intérêt particulier pour **la géomorphologie et les sciences de l'environnement**.
+Je suis étudiant en bachelor à la **Faculté des géosciences et de l'environnement (FGSE)** à l'**Université de Lausanne (UNIL)**, avec un intérêt particulier pour **la géomorphologie et les sciences de l'environnement**.
